@@ -185,6 +185,7 @@ You can use [special script](include-updater/obfh-update.cmd) for Windows to get
 
 ## 🦎 Security Audits and the Community
  * **[Defeating a Heavily Obfuscated Binary](https://vxcall.github.io/posts/defeating-a-heavily-obfuscated-binary/)** - Black-box analysis of internal obfus.h security mechanisms and it deobfuscation. All vulnerabilities have now been patched.
+ * **[\[CTF\] 2024 CISCN x 长城杯 初赛逆向0解题-VT 解题全流程](https://www.52pojie.cn/thread-2008228-1-1.html#1)** -  Reversing CTF with previous generation of obfus.h using the original protection code.
  * **[ObfusHunter](https://github.com/hACKCASCAC/ObfusHunter)** - A utility for scanning files protected by obfus.h
 
 ## 📖 Summarize
